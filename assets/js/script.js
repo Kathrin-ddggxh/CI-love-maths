@@ -22,6 +22,7 @@ function runGame() {
     let num2 = Math.floor(Math.random() * 25) + 1;
 }
 
+
 function checkAnswer() {
 
 }
